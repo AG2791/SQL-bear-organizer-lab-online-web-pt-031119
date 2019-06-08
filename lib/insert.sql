@@ -15,3 +15,4 @@ VALUES
 (7,"Wendy",10, "female","Brown", "kind", 1);
 
 (8, NULL,10, "male","Brown", "kind", 1);
+
